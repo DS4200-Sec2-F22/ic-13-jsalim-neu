@@ -1,0 +1,13 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+
+#column1 {
+  width: 50%;
+}
+
+#column2 {
+  width: 50%;
+}
